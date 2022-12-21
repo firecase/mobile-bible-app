@@ -1,4 +1,4 @@
-# flutter_application_1
+# Bibel App
 
 A new Flutter project.
 
