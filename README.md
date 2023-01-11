@@ -1,1 +1,1 @@
-# Mobile Bible App
+# mobile bible app
